@@ -1,3 +1,4 @@
+
 ## Overview
 Hands-on information technology leader (Software Engineering|CyberSecurity|Cloud|DevOps) with over three decades of experience and a proven track record of architecting and delivering reliable and scalable systems in a variety of areas such as network security, credit/banking/financial, healthcare, real estate/multifamily, satellite/medical image processing etc.
 
